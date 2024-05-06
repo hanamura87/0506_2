@@ -22,7 +22,7 @@ var shapes = [
       1, 1, 1 ]
 ];
 var colors = [
-    'green', 'green', 'green', 'green', 'green', 'green', 'green'
+    'green', 'green', 'green', 'green', 'green', 'green', 'green' //全てグリーンに変更
 ];
 
 // creates a new 4x4 shape in global variable 'current'
